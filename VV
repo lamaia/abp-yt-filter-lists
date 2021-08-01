@@ -1,1 +1,13 @@
+[Adblock Plus 2.0]
+! Title: YT block list for VV
+! Expires: 1 days (update frequency)
+! Version: 1
+! Last modified: 1 August 2021
+! Homepage: https://github.com/lamaia/abp-yt-filter-lists
+! Contribute: https://github.com/lamaia/abp-yt-filter-lists/issues
+! License: https://mit-license.org/
+! Description: 
+!-------------------------------------------------------------------------------
 
+! Specific video "From NERD To STAR"
+||https://www.youtube.com/watch?v=XFIeHzrKlc4
